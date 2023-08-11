@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
 <h3 align="center">I'm a Full Stack Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aksrva&label=Profile%20views&icon=2&color=1" alt="aksrva" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aksrva&label=Profile%20views&color=0000ff&style=flat" alt="aksrva" /> </p>
 
 
 - 👨‍💻 All of my projects are available at [Click check all projects.](https://github.com/aksrva)
